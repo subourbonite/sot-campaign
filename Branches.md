@@ -12,11 +12,8 @@ share: true
 | [Tempest-Sun Mages](./Tempest-Sun%20Mages.md) | <ul><li>Intimidation</li><li>Performance</li></ul>            | Warfare Lore                                | Toughness             |
 | [Uzunjati](./Uzunjati.md)                   | <ul><li>Crafting</li><li>Lore</li></ul>                       | Any Lore                                    | Incredible Initiative |
 
-## Branch Benefits
-```ad-tip
-collapse: open
-title: Branch Benefits By Level
-icon: horn-call
+
+## Branch Benefits By Level
 
 | Level | Benefit                    | Summary                                                                                                                                                                                                                                                                                                                                                                                                     |
 | ----- | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -41,6 +38,4 @@ icon: horn-call
 | 19    | Skill Feat (Legendary)     | You gain an additional skill feat that requires the legendary or lower rank in one of your branch’s associated skills.                                                                                                                                                                                                                                                                                                                                                                                                            |
 | 20    | Magical Paragon            | At 20th level in a branch, you embody the branch so completely that you gain a unique special ability depending on your branch. Many of these abilities build upon Magaambyan attendant archetype feats you have gained.                                                                                                                                                                                                                                                                                                                                                                                                            |
 
-
-```
 
